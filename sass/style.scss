@@ -377,7 +377,7 @@ main {
   }
 
   .tweet-desk {
-    background-color: white;
+    background-color: green;
     border: 1px $border solid;
     border-radius: 8px;
     padding: 24px;
@@ -396,6 +396,7 @@ main {
       background-color: white;
       margin: 32px 0 34px;
       width: 440px;
+      height: 500px;
 
       &.dim {
         border: 1px $theme-dim solid;
