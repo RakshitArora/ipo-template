@@ -336,12 +336,12 @@ main .tweet-desk .tweet_box.dark {
 }
 @media (max-width: 940px) {
   main .tweet-desk .tweet_box {
-    width: 400px;
+    width: 800px;
   }
 }
 @media (max-width: 890px) {
   main .tweet-desk .tweet_box {
-    max-width: 440px;
+    max-width: 740px;
     width: 100%;
     margin: 32px auto;
   }
